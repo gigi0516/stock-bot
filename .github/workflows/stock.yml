@@ -22,15 +22,3 @@ jobs:
 
       - name: Run script
         run: python stock.py
-
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Run script
-        run: python stock.py
-
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Run script
-        run: python stock.py
